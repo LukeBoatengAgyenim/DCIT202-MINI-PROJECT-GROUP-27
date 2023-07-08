@@ -19,9 +19,9 @@ import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.android.foodorderapp.adapters.PlaceYourOrderAdapter;
-import com.android.foodorderapp.model.Menu;
-import com.android.foodorderapp.model.RestaurantModel;
+import com.example.dcit_202_project.adapters.PlaceYourOrderAdapter;
+import com.example.dcit_202_project.model.Menu;
+import com.example.dcit_202_project.model.RestaurantModel;
 import com.example.dcit_202_project.adapters.PlaceYourOrderAdapter;
 
 public class PlaceYourOrderActivity extends AppCompatActivity {

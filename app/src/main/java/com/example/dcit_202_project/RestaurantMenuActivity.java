@@ -1,6 +1,5 @@
 package com.example.dcit_202_project;
 
-package com.android.foodorderapp;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,9 +16,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.android.foodorderapp.adapters.MenuListAdapter;
-import com.android.foodorderapp.model.Menu;
-import com.android.foodorderapp.model.RestaurantModel;
+import com.example.dcit_202_project.adapters.MenuListAdapter;
+import com.example.dcit_202_project.model.Menu;
+import com.example.dcit_202_project.model.RestaurantModel;
 
 import java.util.ArrayList;
 import java.util.List;

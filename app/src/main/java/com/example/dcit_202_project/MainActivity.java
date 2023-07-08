@@ -8,8 +8,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.android.foodorderapp.adapters.RestaurantListAdapter;
-import com.android.foodorderapp.model.RestaurantModel;
+import com.example.dcit_202_project.adapters.RestaurantListAdapter;
+import com.example.dcit_202_project.model.RestaurantModel;
 import com.google.gson.Gson;
 
 import java.io.BufferedReader;

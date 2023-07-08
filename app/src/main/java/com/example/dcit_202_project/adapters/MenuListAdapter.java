@@ -10,9 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.android.dcit_202_project.R;
-import com.android.dcit_202_project.model.Menu;
-import com.android.dcit_202_project.model.RestaurantModel;
+import com.example.dcit_202_project.R;
+import com.example.dcit_202_project.model.Menu;
+import com.example.dcit_202_project.model.RestaurantModel;
 import com.bumptech.glide.Glide;
 
 import java.util.List;
