@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.android.foodorderapp.model.RestaurantModel;
+import com.example.dcit_202_project.model.RestaurantModel;
 
 public class OrderSucceessActivity extends AppCompatActivity {
 
