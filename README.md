@@ -24,49 +24,49 @@ Responsibilities: Overall project management, coordination, and team communicati
 Contributions: Led the project planning, organized team meetings, and oversaw the development process.
 
 LUKE BOATENG AGYENIM
-ID: 10964715
+Role: Project Leader
 GitHub Username: LukeBoatengAgyenim
 Responsibilities: UI/UX design, frontend development, and user testing.
 Contributions: Designed the app's interface, implemented frontend components, and conducted user research.
 
 EVANS BAMFO BOATENG
 Role: Backend Developer
-ID: AJ54321
+ID: 10976779
 GitHub Username: alexjohnson789
 Responsibilities: Server-side development, API integration, and database management.
 Contributions: Developed the backend logic, integrated APIs for payment processing, and ensured data security.
 
 SHABEL GUMAH
 Role: Project Manager
-ID: JS12345
+ID: 10966973
 GitHub Username: johnsmith123
 Responsibilities: Overall project management, coordination, and team communication.
 Contributions: Led the project planning, organized team meetings, and oversaw the development process.
 
 OSBORN MENSAH
 Role: Frontend Developer
-ID: JD67890
+ID: 10966038
 GitHub Username: janedoe456
 Responsibilities: UI/UX design, frontend development, and user testing.
 Contributions: Designed the app's interface, implemented frontend components, and conducted user research.
 
 LORAN PARTU
 Role: Backend Developer
-ID: AJ54321
+ID: 10966653
 GitHub Username: alexjohnson789
 Responsibilities: Server-side development, API integration, and database management.
 Contributions: Developed the backend logic, integrated APIs for payment processing, and ensured data security.
 
 DANIEL KOOMSON
 Role: Backend Developer
-ID: AJ54321
+ID: 10966669
 GitHub Username: alexjohnson789
 Responsibilities: Server-side development, API integration, and database management.
 Contributions: Developed the backend logic, integrated APIs for payment processing, and ensured data security.
 
 MARRISON MAWUSI DZOBO
 Role: Backend Developer
-ID: AJ54321
+ID: 10975330
 GitHub Username: alexjohnson789
 Responsibilities: Server-side development, API integration, and database management.
 Contributions: Developed the backend logic, integrated APIs for payment processing, and ensured data security.
